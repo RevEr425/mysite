@@ -4,23 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="refresh" content="0; URL='https://www.builder.my/p/52a69352854d478a86320ef8076781cf/6545b068ad394dad847fdbe8b387e587'" />
     <title>Redirecting...</title>
-    <style>
-      body {
-        font-family: sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        background: #f9f9f9;
-      }
-      p {
-        font-size: 1.2rem;
-        color: #555;
-      }
-    </style>
   </head>
   <body>
     <p>잠시만 기다려 주세요... 웹사이트로 이동 중입니다 🚀</p>
   </body>
 </html>
-add index.html
